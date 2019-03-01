@@ -61,6 +61,9 @@ public class Main {
             case 12:
                 System.out.println(" December");
                 break;
+
+                default:
+                    System.out.println("enter the right number");
         }
     }
 }
