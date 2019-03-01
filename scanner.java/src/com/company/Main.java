@@ -14,6 +14,6 @@ public class Main {
         String userName =scan.nextLine();
         String password =scan.nextLine();
 
-        System.out.println(" Username is " + userName + " " + password);
+        System.out.println(" Username is " + userName + " " + " and the password is" + " " + password);
     }
 }
