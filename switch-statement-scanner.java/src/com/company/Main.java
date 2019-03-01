@@ -10,6 +10,7 @@ public class Main {
         Scanner scan= new Scanner(System.in);
 
         System.out.println(" Enter the number to display a month");
+
         int month=scan.nextInt();
 
         switch (month){
