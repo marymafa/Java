@@ -15,7 +15,14 @@ public class Main {
         capitalCities.put("USA", "Washington DC");
         capitalCities.remove("Norway");
 
+        //capitalCities.clear();
+        for (String i : capitalCities.keySet()) {
+            System.out.println(i);
+        }
+        System.out.println(capitalCities.size());
         System.out.println(capitalCities);
+
         System.out.println(capitalCities.get("England"));
-    }
+        }
+
 }
