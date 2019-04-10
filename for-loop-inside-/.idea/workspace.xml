@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85bc399f-15ee-4419-a827-3be1f6536411" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../array/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrray-lists.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arrray-lists.java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrray-lists.java/out/production/arrray-lists.java/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../arrray-lists.java/out/production/arrray-lists.java/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrray-lists.java/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrray-lists.java/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
