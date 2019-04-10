@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85bc399f-15ee-4419-a827-3be1f6536411" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../array/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../array/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,6 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
