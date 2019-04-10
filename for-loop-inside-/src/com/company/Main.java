@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        int [][] numbers = {{1,2,3,4,5},{6,7,8,9,10}};
-        for( int i =0; i< numbers.length; i++){
-            for( int j = 0; j< numbers[i].length; j++) {
+        int [][] numbers ={{1,3,5,7,9},{3,6,9,12}};
+        for(int i = 0; i <numbers.length; i++){
+            for(int j = 0; j <numbers[i].length; j++) {
                 System.out.println(numbers[i][j]);
             }
             }
