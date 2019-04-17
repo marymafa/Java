@@ -4,6 +4,9 @@ public class BinaryChop {
 
     public  static int chop(int search, int[] array) {
 
+
+
+        
         int min = 0;
         int max = array.length-1;
 //       System.out.println(max);

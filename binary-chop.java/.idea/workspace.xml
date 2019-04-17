@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2039601-5beb-4c3f-b5b9-c81d999a3adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/Kotlin_for_Java_Developers._Week_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/assignmentKey" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/partId" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/src/mastermind/evaluateGuess.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/test/mastermind/TestMastermindDifferentLetters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/binary-chop.java/com/company/BinaryChop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/binary-chop.java/com/company/BinaryChop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/binary-chop.java/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/binary-chop.java/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/BinaryChop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BinaryChop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../constructor.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../constructor.java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for-loop-inside-/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for-loop-inside-/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for-loop-inside-/out/production/for-loop-inside-/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../for-loop-inside-/out/production/for-loop-inside-/com/company/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +25,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,7 +63,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553785055000" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kata.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Delete-occurrences-of-an-element-if-it-occurs-more-than-n-times.java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -133,11 +122,14 @@
       <workItem from="1553852649162" duration="4661000" />
       <workItem from="1554813822301" duration="127000" />
       <workItem from="1554882330982" duration="1601000" />
+      <workItem from="1555071188912" duration="2079000" />
+      <workItem from="1555420714016" duration="595000" />
+      <workItem from="1555486420387" duration="269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20595000" />
+    <option name="totallyTimeSpent" value="23538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
@@ -149,7 +141,6 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.34989202" />
@@ -163,6 +154,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32937366" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -216,19 +208,22 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/BinaryChop.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="150">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/BinaryChop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary-chop.java.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
