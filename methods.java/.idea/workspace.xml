@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad67c427-6fc0-4a08-8bdb-7868c2580fed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../do-while.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../do-while.java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-method.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-method.java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../while-loop-scanner.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../while-loop-scanner.java/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="53" />
     <option name="width" value="1380" />
@@ -116,7 +114,7 @@
     <option name="totallyTimeSpent" value="4044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
