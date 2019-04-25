@@ -15,5 +15,9 @@ public class Main {
         items.add("tea bags");
 
         items.forEach(item -> System.out.println(item));
+
+        items.stream()
+                .filter(s->s.contains("milk"))
+                .forEach(System.out::println);
     }
 }
