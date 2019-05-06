@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdc06b50-cf73-4aae-ae7e-6532fe976a7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/Java._Introduction1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (1)/Boolean-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (1)/Boolean-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (1)/Boolean-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (2)/Boolean-Quiz_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (2)/Boolean-Quiz_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (2)/Boolean-Quiz_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (3)/Boolean-Quiz_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (3)/Boolean-Quiz_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (3)/Boolean-Quiz_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz/Boolean-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz/Boolean-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz/Boolean-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory (1)/Boolean-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory (1)/Boolean-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory (1)/Boolean-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory/Boolean-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory/Boolean-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory/Boolean-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz (1)/Character-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz (1)/Character-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz (1)/Character-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz/Character-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz/Character-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz/Character-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Theory/Character-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Theory/Character-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Theory/Character-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (1)/Comments-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (1)/Comments-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (1)/Comments-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (2)/Comments-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (2)/Comments-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (2)/Comments-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (3)/Comments-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (3)/Comments-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (3)/Comments-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming/Comments-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming/Comments-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming/Comments-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Quiz/Comments-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Quiz/Comments-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Quiz/Comments-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Theory/Comments-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Theory/Comments-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Theory/Comments-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (1)/Floating-point-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (1)/Floating-point-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (1)/Floating-point-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (2)/Floating-point-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (2)/Floating-point-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (2)/Floating-point-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (3)/Floating-point-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (3)/Floating-point-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (3)/Floating-point-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming/Floating-point-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming/Floating-point-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming/Floating-point-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Quiz/Floating-point-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Quiz/Floating-point-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Quiz/Floating-point-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Theory/Floating-point-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Theory/Floating-point-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Theory/Floating-point-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (1)/Integer-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (1)/Integer-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (1)/Integer-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (10)/Integer-Programming_(10).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (10)/Integer-Programming_(10)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (10)/Integer-Programming_(10)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (2)/Integer-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (2)/Integer-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (2)/Integer-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (3)/Integer-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (3)/Integer-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (3)/Integer-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (4)/Integer-Programming_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (4)/Integer-Programming_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (4)/Integer-Programming_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (5)/Integer-Programming_(5).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (5)/Integer-Programming_(5)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (5)/Integer-Programming_(5)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (6)/Integer-Programming_(6).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (6)/Integer-Programming_(6)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (6)/Integer-Programming_(6)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (7)/Integer-Programming_(7).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (7)/Integer-Programming_(7)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (7)/Integer-Programming_(7)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (8)/Integer-Programming_(8).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (8)/Integer-Programming_(8)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (8)/Integer-Programming_(8)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (9)/Integer-Programming_(9).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (9)/Integer-Programming_(9)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (9)/Integer-Programming_(9)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming/Integer-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming/Integer-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming/Integer-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Theory/Integer-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Theory/Integer-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Theory/Integer-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (1)/Intro-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (1)/Intro-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (1)/Intro-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (2)/Intro-Quiz_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (2)/Intro-Quiz_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (2)/Intro-Quiz_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (3)/Intro-Quiz_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (3)/Intro-Quiz_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (3)/Intro-Quiz_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (4)/Intro-Quiz_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (4)/Intro-Quiz_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (4)/Intro-Quiz_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (5)/Intro-Quiz_(5).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (5)/Intro-Quiz_(5)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (5)/Intro-Quiz_(5)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz/Intro-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz/Intro-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz/Intro-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory (1)/Intro-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory (1)/Intro-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory (1)/Intro-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory/Intro-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory/Intro-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory/Intro-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (1)/Main_method-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (1)/Main_method-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (1)/Main_method-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (2)/Main_method-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (2)/Main_method-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (2)/Main_method-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (3)/Main_method-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (3)/Main_method-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (3)/Main_method-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming/Main_method-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming/Main_method-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming/Main_method-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (1)/Main_method-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (1)/Main_method-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (1)/Main_method-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (2)/Main_method-Quiz_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (2)/Main_method-Quiz_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (2)/Main_method-Quiz_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz/Main_method-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz/Main_method-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz/Main_method-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory (1)/Main_method-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory (1)/Main_method-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory (1)/Main_method-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory/Main_method-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory/Main_method-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory/Main_method-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (1)/Math-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (1)/Math-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (1)/Math-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (2)/Math-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (2)/Math-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (2)/Math-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (3)/Math-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (3)/Math-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (3)/Math-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (4)/Math-Programming_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (4)/Math-Programming_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (4)/Math-Programming_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming/Math-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming/Math-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming/Math-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory (1)/Math-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory (1)/Math-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory (1)/Math-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory/Math-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory/Math-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory/Math-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Quiz/Type_Casting-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Quiz/Type_Casting-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Quiz/Type_Casting-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Theory/Type_Casting-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Theory/Type_Casting-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Theory/Type_Casting-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Programming/Variables_and_Types-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Programming/Variables_and_Types-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Programming/Variables_and_Types-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz (1)/Variables_and_Types-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz (1)/Variables_and_Types-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz (1)/Variables_and_Types-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz/Variables_and_Types-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz/Variables_and_Types-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz/Variables_and_Types-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (1)/Variables_and_Types-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (1)/Variables_and_Types-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (1)/Variables_and_Types-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (2)/Variables_and_Types-Theory_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (2)/Variables_and_Types-Theory_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (2)/Variables_and_Types-Theory_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (3)/Variables_and_Types-Theory_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (3)/Variables_and_Types-Theory_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (3)/Variables_and_Types-Theory_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory/Variables_and_Types-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory/Variables_and_Types-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory/Variables_and_Types-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/study_project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/Java._Introduction2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz (1)/Boolean-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz (1)/Boolean-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz (1)/Boolean-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz (2)/Boolean-Quiz_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz (2)/Boolean-Quiz_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz (2)/Boolean-Quiz_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz (3)/Boolean-Quiz_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz (3)/Boolean-Quiz_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz (3)/Boolean-Quiz_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz/Boolean-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz/Boolean-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Quiz/Boolean-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Theory (1)/Boolean-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Theory (1)/Boolean-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Theory (1)/Boolean-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Theory/Boolean-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Theory/Boolean-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Boolean/Theory/Boolean-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Character/Quiz (1)/Character-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Character/Quiz (1)/Character-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Character/Quiz (1)/Character-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Character/Quiz/Character-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Character/Quiz/Character-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Character/Quiz/Character-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Character/Theory/Character-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Character/Theory/Character-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Character/Theory/Character-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming (1)/Comments-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming (1)/Comments-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming (1)/Comments-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming (2)/Comments-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming (2)/Comments-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming (2)/Comments-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming (3)/Comments-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming (3)/Comments-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming (3)/Comments-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming/Comments-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming/Comments-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Programming/Comments-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Quiz/Comments-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Quiz/Comments-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Quiz/Comments-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Theory/Comments-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Theory/Comments-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Comments/Theory/Comments-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming (1)/Floating-point-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming (1)/Floating-point-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming (1)/Floating-point-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming (2)/Floating-point-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming (2)/Floating-point-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming (2)/Floating-point-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming (3)/Floating-point-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming (3)/Floating-point-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming (3)/Floating-point-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming/Floating-point-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming/Floating-point-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Programming/Floating-point-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Quiz/Floating-point-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Quiz/Floating-point-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Quiz/Floating-point-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Theory/Floating-point-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Theory/Floating-point-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Floating-point/Theory/Floating-point-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (1)/Integer-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (1)/Integer-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (1)/Integer-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (10)/Integer-Programming_(10).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (10)/Integer-Programming_(10)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (10)/Integer-Programming_(10)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (2)/Integer-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (2)/Integer-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (2)/Integer-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (3)/Integer-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (3)/Integer-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (3)/Integer-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (4)/Integer-Programming_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (4)/Integer-Programming_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (4)/Integer-Programming_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (5)/Integer-Programming_(5).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (5)/Integer-Programming_(5)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (5)/Integer-Programming_(5)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (6)/Integer-Programming_(6).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (6)/Integer-Programming_(6)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (6)/Integer-Programming_(6)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (7)/Integer-Programming_(7).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (7)/Integer-Programming_(7)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (7)/Integer-Programming_(7)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (8)/Integer-Programming_(8).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (8)/Integer-Programming_(8)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (8)/Integer-Programming_(8)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (9)/Integer-Programming_(9).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (9)/Integer-Programming_(9)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming (9)/Integer-Programming_(9)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming/Integer-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming/Integer-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Programming/Integer-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Theory/Integer-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Theory/Integer-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Integer/Theory/Integer-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (1)/Intro-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (1)/Intro-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (1)/Intro-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (2)/Intro-Quiz_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (2)/Intro-Quiz_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (2)/Intro-Quiz_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (3)/Intro-Quiz_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (3)/Intro-Quiz_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (3)/Intro-Quiz_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (4)/Intro-Quiz_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (4)/Intro-Quiz_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (4)/Intro-Quiz_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (5)/Intro-Quiz_(5).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (5)/Intro-Quiz_(5)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz (5)/Intro-Quiz_(5)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz/Intro-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz/Intro-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Quiz/Intro-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Theory (1)/Intro-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Theory (1)/Intro-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Theory (1)/Intro-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Theory/Intro-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Theory/Intro-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Intro/Theory/Intro-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming (1)/Main_method-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming (1)/Main_method-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming (1)/Main_method-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming (2)/Main_method-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming (2)/Main_method-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming (2)/Main_method-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming (3)/Main_method-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming (3)/Main_method-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming (3)/Main_method-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming/Main_method-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming/Main_method-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Programming/Main_method-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Quiz (1)/Main_method-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Quiz (1)/Main_method-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Quiz (1)/Main_method-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Quiz (2)/Main_method-Quiz_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Quiz (2)/Main_method-Quiz_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Quiz (2)/Main_method-Quiz_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Quiz/Main_method-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Quiz/Main_method-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Quiz/Main_method-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Theory (1)/Main_method-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Theory (1)/Main_method-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Theory (1)/Main_method-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Theory/Main_method-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Theory/Main_method-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Main method/Theory/Main_method-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (1)/Math-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (1)/Math-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (1)/Math-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (2)/Math-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (2)/Math-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (2)/Math-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (3)/Math-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (3)/Math-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (3)/Math-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (4)/Math-Programming_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (4)/Math-Programming_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming (4)/Math-Programming_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming/Math-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming/Math-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Programming/Math-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Theory (1)/Math-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Theory (1)/Math-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Theory (1)/Math-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Theory/Math-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Theory/Math-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Math/Theory/Math-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Type Casting/Quiz/Type_Casting-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Type Casting/Quiz/Type_Casting-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Type Casting/Quiz/Type_Casting-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Type Casting/Theory/Type_Casting-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Type Casting/Theory/Type_Casting-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Type Casting/Theory/Type_Casting-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Programming/Variables_and_Types-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Programming/Variables_and_Types-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Programming/Variables_and_Types-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Quiz (1)/Variables_and_Types-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Quiz (1)/Variables_and_Types-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Quiz (1)/Variables_and_Types-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Quiz/Variables_and_Types-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Quiz/Variables_and_Types-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Quiz/Variables_and_Types-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory (1)/Variables_and_Types-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory (1)/Variables_and_Types-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory (1)/Variables_and_Types-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory (2)/Variables_and_Types-Theory_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory (2)/Variables_and_Types-Theory_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory (2)/Variables_and_Types-Theory_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory (3)/Variables_and_Types-Theory_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory (3)/Variables_and_Types-Theory_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory (3)/Variables_and_Types-Theory_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory/Variables_and_Types-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory/Variables_and_Types-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/Variables and Types/Theory/Variables_and_Types-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/study_project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Introduction2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/Kotlin_for_Java_Developers._Week_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/modules/Nice String/Task/Nice_String-Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/modules/Nice String/Task/Nice_String-Task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/modules/Nice String/Task/Nice_String-Task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/modules/Taxi Park/Task/Taxi_Park-Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/modules/Taxi Park/Task/Taxi_Park-Task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/modules/Taxi Park/Task/Taxi_Park-Task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/study_project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Nice String/Task/assignmentKey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Nice String/Task/partId" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Nice String/Task/src/nicestring/NiceString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Nice String/Task/test/nicestring/TestNiceString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/assignmentKey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/partId" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/src/taxipark/TaxiPark.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/src/taxipark/TaxiParkTask.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/test/taxipark/TaxiParkTestUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/test/taxipark/TestTask1FakeDrivers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/test/taxipark/TestTask2FaithfulPassengers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/test/taxipark/TestTask3FrequentPassengers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/test/taxipark/TestTask4SmartPassengers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/test/taxipark/TestTask5TheMostFrequentTripDurationPeriod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/test/taxipark/TestTask6ParetoPrinciple.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/Kotlin_for_Java_Developers._Week_31.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurency.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../concurency.java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enum.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../enum.java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example-hash-map.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example-hash-map.java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../get-and-set.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../get-and-set.java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../get-and-set.java/out/production/get-and-set.java/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../get-and-set.java/out/production/get-and-set.java/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hash-table.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hash-table.java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inteface.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inteface.java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paint-job.java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../paint-job.java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paint-job.java/out/production/paint-job.java/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../paint-job.java/out/production/paint-job.java/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paint-job.java/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paint-job.java/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="53" />
+    <option name="width" value="1380" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdc06b50-cf73-4aae-ae7e-6532fe976a7d" name="Default Changelist" comment="" />
+      <created>1557135464247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557135464247</updated>
+      <workItem from="1557135469651" duration="640000" />
+      <workItem from="1557138694791" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1238000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
