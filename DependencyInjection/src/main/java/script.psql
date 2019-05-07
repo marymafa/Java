@@ -1,7 +1,5 @@
- CREATE TABLE users(
-
-  id serial PRIMARY KEY,
-  firstName VARCHAR (50) UNIQUE NOT NULL,
-  secondName VARCHAR (50) NOT NULL
+ CREATE TABLE  IF NOT EXISTS Users(
+  firstname VARCHAR (50) UNIQUE NOT NULL,
+  secondname VARCHAR (50) NOT NULL
 
  );
