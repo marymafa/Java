@@ -50,7 +50,7 @@ public class User {
             while ( rs.next() ) {
                 String firstname = rs.getString("firstname");
                 String secondname = rs.getString("secondname");
-                System.out.println(firstname + secondname);
+                System.out.println(firstname + " " + secondname);
             }
             conn.close();
         } catch (Exception e) {
