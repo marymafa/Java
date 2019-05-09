@@ -38,6 +38,24 @@ public class User {
      */
     public  Connection connect() {
       Connection conn = null;
+
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+            String url = "jdbc:postgresql://localhost/user_input";
+            String  user = "postgres";
+            String password = "TCGPC1";
+
+            conn = DriverManager.getConnection(url,user,password);
+            Statement stmt = conn.createStatement();
+
+            String sql = "INSERT INTO Users(firstname,secondname) VALUES (?,?)";
+            stmt.executeUpdate(sql);
+            System.out.println("Inserted records into the table...");
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        };
+
         try {
             String url = "jdbc:postgresql://localhost/user_input";
             String  user = "postgres";
@@ -45,6 +63,7 @@ public class User {
              conn = DriverManager.getConnection(url,user,password);
             Statement stmt = conn.createStatement();
             ResultSet rs;
+
 
             rs = stmt.executeQuery("SELECT * FROM Users");
             while ( rs.next() ) {
