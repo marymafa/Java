@@ -1,14 +1,24 @@
 
 import java.sql.Statement;
 import java.util.Scanner;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
 
 public class Main {
 
+
     public static void main(String[] args) {
+
+
         // write your code here
         Scanner scanner = new Scanner(System.in);
 
-        User user = new User();
+        User users = new User();
         User app = new User();
         app.connect();
 
@@ -19,8 +29,11 @@ public class Main {
         String NewLastName = scanner.nextLine();
 
 
-        user.setName(newName ,  NewLastName);
-        System.out.println(user.getName());
+        users.setName(newName ,  NewLastName);
+        System.out.println(users.getName());
+
+        app.setName(newName ,  NewLastName);
+        System.out.println(app.getName());
 
 
     }
