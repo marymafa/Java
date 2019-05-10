@@ -21,8 +21,10 @@ public class Main {
         User users = new User();
         User app = new User();
         app.connect();
+
+        System.out.println(" id");
         int  newId = scanner.nextInt();
-        System.out.println("id");
+
 
         System.out.println("Enter your FirstName");
         String newName = scanner.nextLine();
@@ -33,7 +35,7 @@ public class Main {
 
         users.setName(newId,newName ,  NewLastName);
         System.out.println(users.getName());
-
         users.save();
+
     }
 }
