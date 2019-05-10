@@ -16,17 +16,18 @@ import java.sql.Statement;
 public class User {
     private String firstname;
     private String secondname;
+    private int id;
 
 //    private final String url = "jdbc:postgresql://localhost/user_input";
 //    private final String user = "postgres";
 //    private final String password = "TCGPC1";
 
     public String  getName(){
-        return firstname + secondname;
+        return id + firstname + secondname;
     };
 
-    public void setName(String newName, String NewLastName){
-
+    public void setName(int id,String newName, String NewLastName){
+        this.id = id;
         this.firstname = newName;
         this.secondname  = NewLastName;
 
@@ -38,23 +39,7 @@ public class User {
      */
     public  Connection connect() {
       Connection conn = null;
-
-        try {
-            Class.forName("com.mysql.jdbc.Driver");
-            String url = "jdbc:postgresql://localhost/user_input";
-            String  user = "postgres";
-            String password = "TCGPC1";
-
-            conn = DriverManager.getConnection(url,user,password);
-            Statement stmt = conn.createStatement();
-
-            String sql = "INSERT INTO Users(firstname,secondname) VALUES (?,?)";
-            stmt.executeUpdate(sql);
-            System.out.println("Inserted records into the table...");
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        };
+        PreparedStatement pst = null;
 
         try {
             String url = "jdbc:postgresql://localhost/user_input";
@@ -67,9 +52,10 @@ public class User {
 
             rs = stmt.executeQuery("SELECT * FROM Users");
             while ( rs.next() ) {
+                int id = rs.getInt("id");
                 String firstname = rs.getString("firstname");
                 String secondname = rs.getString("secondname");
-                System.out.println(firstname + " " + secondname);
+                System.out.println(id + " " + firstname + " " + secondname);
             }
             conn.close();
         } catch (Exception e) {
@@ -79,5 +65,31 @@ public class User {
        return conn;
     }
 
-     };
+    public void save() {
+        Connection conn = null;
+        PreparedStatement pst = null;
+
+        try {
+//            Class.forName("com.postgres.jdbc.Driver");
+            String url = "jdbc:postgresql://localhost/user_input";
+            String  user = "postgres";
+            String password = "TCGPC1";
+
+            conn = DriverManager.getConnection(url, user, password);
+
+            String stm = "INSERT INTO Users(id,firstname,secondname) VALUES(?,?,?)";
+            System.out.println(stm);
+            pst = conn.prepareStatement(stm);
+            pst.setInt(1,id);
+            pst.setString(2, firstname);
+            pst.setString(3, secondname);
+            pst.executeUpdate();
+            System.out.println(pst);
+            pst.close();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        };
+    }
+};
 
