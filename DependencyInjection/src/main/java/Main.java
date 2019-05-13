@@ -20,17 +20,17 @@ public class Main {
 
         User users = new User();
         User app = new User();
-        app.connect();
-
-        System.out.println(" id");
-        int  newId = scanner.nextInt();
-
+        app.retriveData();
+        
 
         System.out.println("Enter your FirstName");
         String newName = scanner.nextLine();
 
         System.out.println("Enter your seconName");
         String NewLastName = scanner.nextLine();
+
+        System.out.println(" id");
+        int  newId = scanner.nextInt();
 
 
         users.setName(newId,newName ,  NewLastName);

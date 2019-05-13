@@ -1,8 +1,6 @@
 
 
-public class Interface {
-//    interface Users {
-//        public void connect();
-//
-//    }
+interface Database {
+    public void save();
+    public void retriveData();
 }
