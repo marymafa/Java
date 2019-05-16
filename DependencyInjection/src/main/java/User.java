@@ -30,34 +30,6 @@ public class User implements  Database{
 
     };
 
-//    public  Connection connect()  {
-//      Connection conn = null;
-//        PreparedStatement pst = null;
-//
-//        try {
-//            String url = "jdbc:postgresql://localhost/user_input";
-//            String  user = "postgres";
-//            String password = "TCGPC1";
-//             conn = DriverManager.getConnection(url,user,password);
-//            Statement stmt = conn.createStatement();
-//            ResultSet rs;
-//
-//
-//            rs = stmt.executeQuery("SELECT * FROM Users");
-//            while ( rs.next() ) {
-//                int id = rs.getInt("id");
-//                String firstname = rs.getString("firstname");
-//                String secondname = rs.getString("secondname");
-//                System.out.println(id + " " + firstname + " " + secondname);
-//            }
-//            conn.close();
-//        } catch (Exception e) {
-//            System.err.println("Got an exception! ");
-//            System.err.println(e.getMessage());
-//        }
-//       return conn;
-//    }
-
     public void retriveData() {
         Connection conn = null;
         PreparedStatement pst = null;
