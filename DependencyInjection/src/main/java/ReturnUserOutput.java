@@ -3,15 +3,15 @@ import java.util.Scanner;
 public class ReturnUserOutput {
 
     Scanner userScanner = new Scanner(System.in);
+    private String name;
 
     public  void  returnUserOutput(){
 
         Scanner scanner = new Scanner(System.in);
 
-        User users = new User();
-        User app = new User();
-        app.retriveData();
-
+        User user = new User();
+        Database app = new Database( user);
+        app.getAllData();
 
         System.out.println("Enter your FirstName");
         String newName = scanner.nextLine();
@@ -22,10 +22,10 @@ public class ReturnUserOutput {
         System.out.println(" id");
         int  newId = scanner.nextInt();
 
-
-        users.setName(newId,newName ,  NewLastName);
-        System.out.println(users.getName());
-        users.save();
-    };
+        user.setName(newId,newName ,  NewLastName);
+        System.out.println(user.getName());
+        System.out.println();
+        app.save(user);
+    }
 
 }

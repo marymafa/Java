@@ -19,6 +19,9 @@ import static org.junit.Assert.*;
 //        assertTrue(
 //                connection.prepareStatement("select * from users").executeQuery().next());
 //    }
-//
+//public void tearDown(  ) {
+//        this.game.shutdown(  );
+//        }
+////
 //}
 

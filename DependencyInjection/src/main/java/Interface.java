@@ -1,6 +1,6 @@
 
 
-interface Database {
-    public void save();
-    public void retriveData();
+interface Db {
+    public void save(User user);
+    public void getAllData();
 }
