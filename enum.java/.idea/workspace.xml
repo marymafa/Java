@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8797ab-9334-4af5-8a8f-b7e5a4b637e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Guice/src/test/java/RealBillingServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Guice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Guice/src/main/java/BillingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Guice/src/main/java/BillingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Guice/src/main/java/RealBillingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Guice/src/main/java/RealBillingService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,8 +47,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Course" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -75,6 +70,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,16 +128,18 @@
       <workItem from="1557138684362" duration="610000" />
       <workItem from="1558102434737" duration="620000" />
       <workItem from="1558335803834" duration="600000" />
+      <workItem from="1558346068668" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5836000" />
+    <option name="totallyTimeSpent" value="5871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26307365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26627535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
