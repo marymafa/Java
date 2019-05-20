@@ -1,4 +1,4 @@
 public interface BillingService {
 
-    Receipt chargeOrder(PizzaOrder order, CreditCard creditCard);
+  public void  Receipt chargeOrder(PizzaOrder order, CreditCard creditCard);
 }
