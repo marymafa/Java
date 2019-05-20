@@ -2,10 +2,16 @@ import CreditCard.CreditCard;
 import PizzaOrder.PizzaOrder;
 
 public class RealBillingService implements BillingService {
-    public Receipt chargeOrder(PizzaOrder order, CreditCard creditCard) {
-        CreditCardProcessor processor = CreditCardProcessorFactory.getInstance();
-        TransactionLog transactionLog = TransactionLogFactory.getInstance();
+    private final CreditCardProcessor processor;
+    private final TransactionLog transactionLog;
 
+    public RealBillingService(CreditCardProcessor processor,
+                              TransactionLog transactionLog) {
+        this.processor = processor;
+        this.transactionLog = transactionLog;
+    }
+
+    public Receipt chargeOrder(PizzaOrder order, CreditCard creditCard) {
         try {
             ChargeResult result = processor.charge(creditCard, order.getAmount());
             transactionLog.logChargeResult(result);
