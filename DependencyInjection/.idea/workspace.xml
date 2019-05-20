@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d7c3310-91cc-4030-8143-92c353b99d5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Guice/src/main/java/BillingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Guice/src/main/java/CreditCardProcessorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Guice/src/main/java/RealBillingService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Guice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guice/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -416,6 +413,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="top" id="Maven" order="0" side_tool="true" weight="0.03322259" />
       <window_info id="UI Designer" order="0" />
