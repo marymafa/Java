@@ -1,5 +1,7 @@
 package CreditCardProcessor;
 
+import CreditCard.CreditCard;
+
 public class CreditCardProcessor {
     private String customer;
     private String bank;
@@ -35,7 +37,7 @@ public class CreditCardProcessor {
     public double getBalance() {
         return balance;
     }
-    public boolean charge(double price) {
+    public boolean charge(CreditCard creditCard, double price) {
         if (price + balance > limit) {
             return false;
         } else {

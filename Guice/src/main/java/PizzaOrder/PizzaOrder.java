@@ -17,7 +17,7 @@ public class PizzaOrder {
         PRICE_TAX = 0.095;
     }
 
-    public static double getPizzaPRice( String pizzaName){
+    public static double getPizzaPRice( String pizzaName , int PRICE_MEDIUM, int PRICE_LARGE, int PRICE_SMALL){
         PizzaOrder.pizzaName = pizzaName;
         if (pizzaName.equals(PIZZA_SMALL)) {
             System.out.println("pizza prize" + PRICE_SMALL);
@@ -33,5 +33,9 @@ public class PizzaOrder {
             return PRICE_COLOSSAL;
         }
     }
-    };
+
+//    public void getAmount() {
+//        getPizzaPRice(String pizzaName)
+//    }
+};
 

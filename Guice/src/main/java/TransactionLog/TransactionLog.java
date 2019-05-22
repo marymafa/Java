@@ -1,9 +1,16 @@
 package TransactionLog;
 
-public class TransactionLog {
-    protected CreditCardProcessorFactory logger;
+import CreditCardProcessor.CreditCardProcessor;
 
-    public TransactionLog(Loger logger) {
+public class TransactionLog {
+
+  private CreditCardProcessor logger;
+
+    public TransactionLog(CreditCardProcessor logger) {
         this.logger = logger;
+    }
+
+    public void logChargeResult(boolean result) {
+
     }
 }

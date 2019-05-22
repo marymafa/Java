@@ -1,9 +1,10 @@
+import CreditCard.CreditCard;
+import PizzaOrder.PizzaOrder;
+import Receipt.Receipt;
 import junit.framework.TestCase;
 
-import static org.junit.Assert.*;
-
 public class RealBillingServiceTest extends TestCase {
-    private final PizzaOrder order = new PizzaOrder(100);
+    private final PizzaOrder order = new PizzaOrder(11);
     private final CreditCard creditCard = new CreditCard("1234", 11, 2010);
 
     private final InMemoryTransactionLog transactionLog = new InMemoryTransactionLog();

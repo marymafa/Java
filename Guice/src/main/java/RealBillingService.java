@@ -6,14 +6,14 @@ import Receipt.Receipt;
 import TransactionLog.TransactionLog;
 import TransactionLogFactory.TransactionLogFactory;
 
-public class RealBillingService implements BillingService {
+public class RealBillingService<ChargeResult> implements BillingService {
 
     public Receipt chargeOrder(PizzaOrder order, CreditCard creditCard) {
         CreditCardProcessor processor = CreditCardProcessorFactory.getInstance();
         TransactionLog transactionLog = TransactionLogFactory.getInstance();
 
         try {
-            ChargeResult result = processor.charge(creditCard, order.getAmount());
+            boolean result = processor.charge(creditCard, order.getAmount());
             transactionLog.logChargeResult(result);
 
             return result.wasSuccessful()
