@@ -1,18 +1,15 @@
 import CreditCard.CreditCard;
+import CreditCardProcessor.CreditCardProcessor;
+import PaypalCreditCardProcessor.PaypalCreditCardProcessor;
 import PizzaOrder.PizzaOrder;
+import Receipt.Receipt;
 
 public class RealBillingService implements BillingService {
-    private final CreditCardProcessor processor;
-    private final TransactionLog transactionLog;
-
-    @Inject
-    public RealBillingService(CreditCardProcessor processor,
-                              TransactionLog transactionLog) {
-        this.processor = processor;
-        this.transactionLog = transactionLog;
-    }
 
     public Receipt chargeOrder(PizzaOrder order, CreditCard creditCard) {
+        CreditCardProcessor processor = new PaypalCreditCardProcessor();
+        TransactionLog transactionLog = new DatabaseTransactionLog();
+
         try {
             ChargeResult result = processor.charge(creditCard, order.getAmount());
             transactionLog.logChargeResult(result);
