@@ -3,12 +3,14 @@ import CreditCardProcessor.CreditCardProcessor;
 import PaypalCreditCardProcessor.PaypalCreditCardProcessor;
 import PizzaOrder.PizzaOrder;
 import Receipt.Receipt;
+import TransactionLog.TransactionLog;
+import TransactionLogFactory.TransactionLogFactory;
 
 public class RealBillingService implements BillingService {
 
     public Receipt chargeOrder(PizzaOrder order, CreditCard creditCard) {
-        CreditCardProcessor processor = new PaypalCreditCardProcessor();
-        TransactionLog transactionLog = new DatabaseTransactionLog();
+        CreditCardProcessor processor = CreditCardProcessorFactory.getInstance();
+        TransactionLog transactionLog = TransactionLogFactory.getInstance();
 
         try {
             ChargeResult result = processor.charge(creditCard, order.getAmount());
@@ -17,7 +19,7 @@ public class RealBillingService implements BillingService {
             return result.wasSuccessful()
                     ? Receipt.forSuccessfulCharge(order.getAmount())
                     : Receipt.forDeclinedCharge(result.getDeclineMessage());
-        } catch (UnreachableException e) {
+        } catch (PaypalCreditCardProcessor.PaypalCreditCardProcessor.UnreachableException e) {
             transactionLog.logConnectException(e);
             return Receipt.forSystemFailure(e.getMessage());
         }

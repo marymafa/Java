@@ -8,11 +8,11 @@ public class CreditCardProcessor {
     protected double balance;
 
     public CreditCardProcessor() {
-        customer = cust;
-        bank = bk;
-        account = acnt;
-        limit = lim;
-        balance = bal;
+        customer = customer;
+        bank = bank;
+        account = account;
+        limit = limit;
+        balance = balance;
     }
 
     // accessors
