@@ -19,7 +19,7 @@ public class RealBillingService<ChargeResult> implements BillingService {
             transactionLog.logChargeResult(result);
 
             return result.wasSuccessful()
-                    ? Receipt.forSuccessfulCharge(order.getAmount())
+                    ? Receipt.forSuccessfulCharge(order.getPizzaPRice(price))
                     : Receipt.forDeclinedCharge(result.getDeclineMessage());
         } catch (PaypalCreditCardProcessor.PaypalCreditCardProcessor.UnreachableException e) {
             transactionLog.logConnectException(e);

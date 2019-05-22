@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d7c3310-91cc-4030-8143-92c353b99d5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Guice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Guice/src/main/java/PizzaOrder/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Guice/src/main/java/PizzaOrder/PizzaOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Guice/src/main/java/RealBillingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Guice/src/main/java/RealBillingService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
