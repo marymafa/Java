@@ -7,13 +7,15 @@ import TransactionLog.TransactionLog;
 import TransactionLogFactory.TransactionLogFactory;
 
 public class RealBillingService<ChargeResult> implements BillingService {
+    private   String price;
 
     public Receipt chargeOrder(PizzaOrder order, CreditCard creditCard) {
         CreditCardProcessor processor = CreditCardProcessorFactory.getInstance();
         TransactionLog transactionLog = TransactionLogFactory.getInstance();
 
         try {
-            boolean result = processor.charge(creditCard, order.getAmount());
+
+            boolean result = processor.charge(creditCard, order.getPizzaPRice(price));
             transactionLog.logChargeResult(result);
 
             return result.wasSuccessful()

@@ -17,7 +17,7 @@ public class PizzaOrder {
         PRICE_TAX = 0.095;
     }
 
-    public static double getPizzaPRice( String pizzaName , int PRICE_MEDIUM, int PRICE_LARGE, int PRICE_SMALL){
+    public static double getPizzaPRice( String pizzaName){
         PizzaOrder.pizzaName = pizzaName;
         if (pizzaName.equals(PIZZA_SMALL)) {
             System.out.println("pizza prize" + PRICE_SMALL);
@@ -34,8 +34,6 @@ public class PizzaOrder {
         }
     }
 
-//    public void getAmount() {
-//        getPizzaPRice(String pizzaName)
-//    }
+
 };
 
