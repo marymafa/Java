@@ -1,8 +1,28 @@
-public class BillingModule extends  AbsractModule{
-    @Override
-    protected void configure() {
-        bind(TransactionLog.class).to(DatabaseTransactionLog.class);
-        bind(CreditCardProcessor.class).to(PaypalCreditCardProcessor.class);
-        bind(BillingService.class).to(RealBillingService.class);
+import AbstractModule.AbsractModule;
+import CreditCardProcessor.CrediCardProcessor;
+import PaypalCreditCardProcessor.PaypalCreditCardProcessor;
+
+public class BillingModule extends AbsractModule {
+
+    private RealBillingService RealBillingService;
+    private PaypalCreditCardProcessor PaypalCreditCardProcessor;
+    private Class<CrediCardProcessor> crediCardProcessorClass;
+
+
+    protected void configure(String result) {
+        bind(BillingService.class).wait(RealBillingService.class);
+       bind(CrediCardProcessor.class).wait(PaypalCreditCardProcessor.class);
+
     }
+
+    private PaypalCreditCardProcessor bind (Class<CrediCardProcessor>  crediCardProcessorClass ){
+        this.crediCardProcessorClass = crediCardProcessorClass;
+        return PaypalCreditCardProcessor;
+    };
+
+    private RealBillingService bind(Class<BillingService> billingServiceClass) {
+        return RealBillingService;
+    }
+
+
 }

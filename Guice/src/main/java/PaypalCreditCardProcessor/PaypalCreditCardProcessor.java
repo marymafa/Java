@@ -1,13 +1,10 @@
 package PaypalCreditCardProcessor;
 
 import CreditCard.CreditCard;
-import CreditCardProcessor.CreditCardProcessor;
+import CreditCardProcessor.CrediCardProcessor;
 
-public class PaypalCreditCardProcessor extends CreditCardProcessor {
 
-    public PaypalCreditCardProcessor(String cust, String bk, String acnt, int lim, double bal) {
-        super();
-    }
+public class PaypalCreditCardProcessor implements CrediCardProcessor {
 
     public CreditCard  charge(CreditCard creditCard, int amount)
             throws UnreachableException {
@@ -15,8 +12,11 @@ public class PaypalCreditCardProcessor extends CreditCardProcessor {
         return new CreditCard(true, "PayPal");
     }
 
+    public void wait(Class<PaypalCreditCardProcessor> paypalCreditCardProcessorClass) {
+    }
 
-    private class UnreachableException extends Exception {
+
+    public class UnreachableException extends Exception {
         public UnreachableException(String error) {
             super(error);
         }
