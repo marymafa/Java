@@ -15,7 +15,7 @@ public class BillingModule extends AbsractModule {
 
     }
 
-    private PaypalCreditCardProcessor bind (Class<CrediCardProcessor>  crediCardProcessorClass ){
+    private <crediCardProcessorClass> PaypalCreditCardProcessor bind (crediCardProcessorClass){
         this.crediCardProcessorClass = crediCardProcessorClass;
         return PaypalCreditCardProcessor;
     };
