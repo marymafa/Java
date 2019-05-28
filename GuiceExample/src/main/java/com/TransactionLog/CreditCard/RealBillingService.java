@@ -6,6 +6,10 @@ import com.TransactionLog.CreditCard.PizzaOrder.PizzaOrder;
 import com.TransactionLog.CreditCard.Receipt.Receipt;
 
 public class RealBillingService {
+    public RealBillingService(com.TransactionLog.CreditCard.FakeCreditCardProcessor processor, com.TransactionLog.CreditCard.InMemoryTransactionLog transactionLog) {
+
+    }
+
     public boolean chargeOrder(PizzaOrder order, CreditCard creditCard) {
         CreditCardProcessor processor = new PaypalCreditCardProcessor() {
             @Override

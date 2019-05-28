@@ -6,8 +6,15 @@ public class Receipt {
     boolean message;
 
 
+    public  static boolean hasSuccessfulCharge(boolean amount){
+        return amount;
+    };
 
-    public static boolean forSuccessfulCharge(boolean amount) {
+    public  boolean getAmountOfCharge(){
+        return amount;
+    }
+
+        public static boolean forSuccessfulCharge(boolean amount) {
         return  amount;
     }
 

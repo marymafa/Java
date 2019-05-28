@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6855269d-d2bd-4126-8c77-0f3dc382233c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BillingService/BillingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/BillingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/CreditCardProcessor/CreditCardProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/DatabaseTransactionLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/PaypalCreditCardProcessor/PaypalCreditCardProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/Receipt/Receipt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/TransactionLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/InMemoryTransactionLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/InMemoryTransactionLog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BillingModule/BillingModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BillingModule/BillingModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Guice/Guice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Guice/Guice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Injector/Injector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Injector/Injector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -76,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PizzaOrder/PizzaOrder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -98,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -392,12 +377,12 @@
       <workItem from="1558510117549" duration="20053000" />
       <workItem from="1558594162875" duration="11991000" />
       <workItem from="1558618513314" duration="2590000" />
-      <workItem from="1558680882034" duration="9991000" />
+      <workItem from="1558680882034" duration="9995000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57719000" />
+    <option name="totallyTimeSpent" value="57723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
@@ -543,16 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Receipt/Receipt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -626,6 +601,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
