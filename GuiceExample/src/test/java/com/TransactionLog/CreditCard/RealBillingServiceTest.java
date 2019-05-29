@@ -20,7 +20,7 @@ public class RealBillingServiceTest extends TestCase {
         boolean receipt = billingService.chargeOrder(order, creditCard);
 
         assertTrue( receipt.hasSuccessfulCharge());
-        assertEquals(100, receipt.getAmountOfCharge());
+        assertEquals(100, receipt.if());
         assertEquals(creditCard, processor.getCardOfOnlyCharge());
         assertEquals(100, processor.getAmountOfOnlyCharge());
         assertTrue(transactionLog.wasSuccessLogged());
