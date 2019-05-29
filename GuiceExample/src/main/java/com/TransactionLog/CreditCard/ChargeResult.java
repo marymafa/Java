@@ -4,6 +4,7 @@ public class ChargeResult {
     private boolean successful;
 
   public boolean  wasSuccessful(){
+
       return successful;
   }
 

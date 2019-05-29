@@ -9,6 +9,9 @@ public class RealBillingService {
     public RealBillingService(com.TransactionLog.CreditCard.FakeCreditCardProcessor processor, com.TransactionLog.CreditCard.InMemoryTransactionLog transactionLog) {
 
     }
+    public int getAmountOfCharge(int amount){
+        return amount;
+    };
 
     public boolean chargeOrder(PizzaOrder order, CreditCard creditCard) {
         CreditCardProcessor processor = new PaypalCreditCardProcessor() {
@@ -26,4 +29,5 @@ public class RealBillingService {
                 ? Receipt.forSuccessfulCharge(order.getAmount())
                 : Boolean.parseBoolean(Receipt.forDeclinedCharge(result.getDeclineMessage()));
     }
+
 }

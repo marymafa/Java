@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="903ac325-21b0-41af-bc88-cea91a8f80dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Kata/src/main/java/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kata/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kata/src/test/java/KataTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kata/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="405">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,9 +42,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="27" column="35" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="135">
               <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -84,19 +111,19 @@
         <option value="$PROJECT_DIR$/src/main/java/TransactionLog.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/getAmount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/TransactionLog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/DatabaseTransactionLog.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PaypalCreditCardProcessor/PaypalCreditCardProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/CreditCardProcessor/CreditCardProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/InMemoryTransactionLog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/InMemoryTransactionLog.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/Receipt/Receipt.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/CreditCard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" />
       </list>
     </option>
@@ -113,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,8 +207,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.RealBillingServiceTest.testSuccessfulCharge">
+  <component name="RunManager" selected="Gradle.RealBillingServiceTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.TransactionLog.CreditCard.Main" />
       <module name="GuiceExample.main" />
@@ -279,8 +306,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.RealBillingServiceTest.testSuccessfulCharge" />
         <item itemvalue="Gradle.RealBillingServiceTest" />
+        <item itemvalue="Gradle.RealBillingServiceTest.testSuccessfulCharge" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -298,43 +325,44 @@
       <workItem from="1558686475906" duration="13411000" />
       <workItem from="1559026673339" duration="12260000" />
       <workItem from="1559119274419" duration="705000" />
+      <workItem from="1559127423694" duration="3625000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RealBillingServiceTest - 2019.05.28 at 13h 20m 36s.xml">
-      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest - 2019.05.28 at 13h 28m 35s.xml">
-      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest - 2019.05.28 at 13h 29m 09s.xml">
-      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest - 2019.05.28 at 13h 29m 26s.xml">
-      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest - 2019.05.28 at 13h 33m 24s.xml">
-      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.28 at 15h 17m 14s.xml">
-      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest - 2019.05.28 at 15h 18m 09s.xml">
-      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.28 at 15h 18m 13s.xml">
-      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.28 at 15h 27m 08s.xml">
-      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.28 at 15h 31m 56s.xml">
       <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="RealBillingServiceTest - 2019.05.29 at 15h 36m 17s.xml">
+      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest - 2019.05.29 at 15h 46m 31s.xml">
+      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest - 2019.05.29 at 15h 48m 36s.xml">
+      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest - 2019.05.29 at 15h 48m 37s.xml">
+      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest - 2019.05.29 at 15h 49m 47s.xml">
+      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest - 2019.05.29 at 15h 50m 26s.xml">
+      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest - 2019.05.29 at 15h 52m 32s.xml">
+      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest - 2019.05.29 at 15h 53m 15s.xml">
+      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest - 2019.05.29 at 15h 59m 55s.xml">
+      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26376000" />
+    <option name="totallyTimeSpent" value="30001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
@@ -342,22 +370,23 @@
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.2524013" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.25506938" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Build" order="4" weight="0.3297414" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.31209505" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.16198704" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32977587" />
       <window_info anchor="right" id="Gradle" order="0" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -400,6 +429,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GuiceExample$RealBillingServiceTest.ic" NAME="RealBillingServiceTest Coverage Results" MODIFIED="1559137949788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Interface.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/BillingService.java">
@@ -438,17 +470,6 @@
           <folding>
             <element signature="e#437#438#0" expanded="true" />
             <element signature="e#473#474#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -517,16 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/InMemoryTransactionLog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -541,23 +552,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="135">
           <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#490#491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

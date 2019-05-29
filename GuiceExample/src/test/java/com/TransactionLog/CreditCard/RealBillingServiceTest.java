@@ -15,12 +15,11 @@ public class RealBillingServiceTest extends TestCase {
     private final FakeCreditCardProcessor processor = new FakeCreditCardProcessor();
 
     public void testSuccessfulCharge() {
-        RealBillingService billingService
-                = new RealBillingService(processor, transactionLog);
+        RealBillingService billingService = new RealBillingService(processor, transactionLog);
         boolean receipt = billingService.chargeOrder(order, creditCard);
 
-        assertTrue( receipt.hasSuccessfulCharge());
-        assertEquals(100, receipt.if());
+        assertTrue(receipt.hasSuccessfulCharge());
+        assertEquals(100, receipt.getAmountOfCharge());
         assertEquals(creditCard, processor.getCardOfOnlyCharge());
         assertEquals(100, processor.getAmountOfOnlyCharge());
         assertTrue(transactionLog.wasSuccessLogged());
