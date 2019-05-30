@@ -14,16 +14,16 @@ static boolean hasSuccessfulCharge;
         return amount;
     }
 
-    public static boolean forSuccessfulCharge(boolean amount) {
-        return  amount;
+    public static Receipt forSuccessfulCharge(boolean amount) {
+        return Receipt.forSuccessfulCharge( amount );
     }
 
     public static boolean forSystemFailure(boolean message) {
         return message;
     }
 
-    public static String forDeclinedCharge(String declineMessage) {
-        return  declineMessage;
+    public static Receipt forDeclinedCharge(String declineMessage) {
+        return Receipt.forDeclinedCharge( declineMessage );
     }
 
 

@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="88162d44-7868-4c32-952e-de5eb6e148fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../GuiceExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/Receipt/Receipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/Receipt/Receipt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />

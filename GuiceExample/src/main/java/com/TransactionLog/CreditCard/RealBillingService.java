@@ -24,13 +24,12 @@ public class RealBillingService {
         };
         TransactionLog transactionLog = new DatabaseTransactionLog();
 
-        ChargeResult result = processor.charge(creditCard, order.getAmount());
+       ChargeResult result = processor.charge(creditCard, order.getAmount());
         transactionLog.logChargeResult(result);
 
-        if (result.wasSuccessful()
-                ? forSuccessfulCharge(order.getAmount())
-                : Boolean.parseBoolean(Receipt.forDeclinedCharge(result.getDeclineMessage())));
-        return null;
+        return result.wasSuccessful()
+                ? Receipt.forSuccessfulCharge(order.getAmount())
+                : Receipt.forDeclinedCharge(result.getDeclineMessage());
     }
 
 }
