@@ -3,20 +3,19 @@ package com.TransactionLog.CreditCard;
 import com.TransactionLog.CreditCard.PizzaOrder.PizzaOrder;
 import com.TransactionLog.CreditCard.Receipt.Receipt;
 import junit.framework.TestCase;
+import org.junit.Test;
 
 import static org.junit.Assert.*;
-
 public class RealBillingServiceTest extends TestCase {
-
-    private final PizzaOrder order = new PizzaOrder();
-    private final CreditCard creditCard = new CreditCard();
+    private final PizzaOrder order = new PizzaOrder(100);
+    private final CreditCard creditCard = new CreditCard("1234", 11, 2010);
 
     private final InMemoryTransactionLog transactionLog = new InMemoryTransactionLog();
     private final FakeCreditCardProcessor processor = new FakeCreditCardProcessor();
 
     public void testSuccessfulCharge() {
         RealBillingService billingService = new RealBillingService(processor, transactionLog);
-        boolean receipt = billingService.chargeOrder(order, creditCard);
+        Receipt receipt = billingService.chargeOrder(order, creditCard);
 
         assertTrue(receipt.hasSuccessfulCharge());
         assertEquals(100, receipt.getAmountOfCharge());
@@ -25,4 +24,6 @@ public class RealBillingServiceTest extends TestCase {
         assertTrue(transactionLog.wasSuccessLogged());
     }
 
+    public void testGetAmountOfCharge() {
+    }
 }

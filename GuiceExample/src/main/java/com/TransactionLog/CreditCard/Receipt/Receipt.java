@@ -1,20 +1,20 @@
 package com.TransactionLog.CreditCard.Receipt;
 
 public class Receipt {
-     boolean amount;
+
+static  String amount;
+static boolean hasSuccessfulCharge;
     boolean forSystemFailure;
     boolean message;
 
 
-    public  static boolean hasSuccessfulCharge(boolean amount){
-        return amount;
-    };
+    public  static boolean hasSuccessfulCharge(){ return hasSuccessfulCharge;};
 
-    public  boolean getAmountOfCharge(){
+    public static  String getAmountOfCharge(){
         return amount;
     }
 
-        public static boolean forSuccessfulCharge(boolean amount) {
+    public static boolean forSuccessfulCharge(boolean amount) {
         return  amount;
     }
 
