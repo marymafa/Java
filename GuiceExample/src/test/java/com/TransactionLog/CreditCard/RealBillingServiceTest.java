@@ -3,9 +3,7 @@ package com.TransactionLog.CreditCard;
 import com.TransactionLog.CreditCard.PizzaOrder.PizzaOrder;
 import com.TransactionLog.CreditCard.Receipt.Receipt;
 import junit.framework.TestCase;
-import org.junit.Test;
 
-import static org.junit.Assert.*;
 public class RealBillingServiceTest extends TestCase {
     private final PizzaOrder order = new PizzaOrder(100);
     private final CreditCard creditCard = new CreditCard("1234", 11, 2010);
@@ -25,5 +23,6 @@ public class RealBillingServiceTest extends TestCase {
     }
 
     public void testGetAmountOfCharge() {
+
     }
 }

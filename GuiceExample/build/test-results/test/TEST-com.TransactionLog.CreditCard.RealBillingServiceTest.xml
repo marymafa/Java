@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.TransactionLog.CreditCard.RealBillingServiceTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-05-30T12:39:33" hostname="tcgpc1-HP-250-G5-Notebook-PC" time="0.011">
+<testsuite name="com.TransactionLog.CreditCard.RealBillingServiceTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-05-30T14:18:08" hostname="tcgpc1-HP-250-G5-Notebook-PC" time="0.006">
   <properties/>
-  <testcase name="testSuccessfulCharge" classname="com.TransactionLog.CreditCard.RealBillingServiceTest" time="0.011">
+  <testcase name="testSuccessfulCharge" classname="com.TransactionLog.CreditCard.RealBillingServiceTest" time="0.006">
     <failure message="java.lang.NullPointerException" type="java.lang.NullPointerException">java.lang.NullPointerException
 	at com.TransactionLog.CreditCard.RealBillingService.chargeOrder(RealBillingService.java:30)
-	at com.TransactionLog.CreditCard.RealBillingServiceTest.testSuccessfulCharge(RealBillingServiceTest.java:18)
+	at com.TransactionLog.CreditCard.RealBillingServiceTest.testSuccessfulCharge(RealBillingServiceTest.java:16)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

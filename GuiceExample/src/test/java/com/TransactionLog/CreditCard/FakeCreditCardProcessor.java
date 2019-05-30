@@ -2,8 +2,8 @@ package com.TransactionLog.CreditCard;
 
 public class FakeCreditCardProcessor {
 
-  private  CreditCard creditCard;
-  private int amount;
+  public  CreditCard creditCard;
+  public int amount;
 
     public CreditCard getCardOfOnlyCharge() {
          return creditCard;

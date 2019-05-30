@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88162d44-7868-4c32-952e-de5eb6e148fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GuiceExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/build/classes/java/test/com/TransactionLog/CreditCard/FakeCreditCardProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/build/classes/java/test/com/TransactionLog/CreditCard/FakeCreditCardProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/build/classes/java/test/com/TransactionLog/CreditCard/RealBillingServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/build/classes/java/test/com/TransactionLog/CreditCard/RealBillingServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/build/reports/tests/test/classes/com.TransactionLog.CreditCard.RealBillingServiceTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/build/reports/tests/test/classes/com.TransactionLog.CreditCard.RealBillingServiceTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/build/reports/tests/test/packages/com.TransactionLog.CreditCard.html" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/build/reports/tests/test/packages/com.TransactionLog.CreditCard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/build/test-results/test/TEST-com.TransactionLog.CreditCard.RealBillingServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/build/test-results/test/TEST-com.TransactionLog.CreditCard.RealBillingServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuiceExample/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -219,7 +236,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
