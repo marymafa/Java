@@ -46,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="53" />
     <option name="width" value="1380" />
@@ -304,8 +304,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.RealBillingServiceTest" />
         <item itemvalue="Gradle.RealBillingServiceTest.testGetAmountOfCharge" />
+        <item itemvalue="Gradle.RealBillingServiceTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -324,29 +324,11 @@
       <workItem from="1559026673339" duration="12260000" />
       <workItem from="1559119274419" duration="705000" />
       <workItem from="1559127423694" duration="4309000" />
-      <workItem from="1559201763613" duration="15370000" />
+      <workItem from="1559201763613" duration="16533000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 14h 54m 32s.xml">
-      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest_testGetAmountOfCharge - 2019.05.30 at 14h 58m 04s.xml">
-      <configuration name="RealBillingServiceTest.testGetAmountOfCharge" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 14h 59m 09s.xml">
-      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 14h 59m 18s.xml">
-      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 15h 08m 38s.xml">
-      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 15h 09m 14s.xml">
-      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="RealBillingServiceTest - 2019.05.30 at 15h 09m 38s.xml">
       <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -359,12 +341,30 @@
     <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 15h 41m 09s.xml">
       <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 16h 12m 39s.xml">
+      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 16h 14m 11s.xml">
+      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 16h 14m 57s.xml">
+      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 16h 16m 32s.xml">
+      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest_testGetAmountOfCharge - 2019.05.30 at 16h 17m 43s.xml">
+      <configuration name="RealBillingServiceTest.testGetAmountOfCharge" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 16h 18m 08s.xml">
+      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46055000" />
+    <option name="totallyTimeSpent" value="47218000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -373,14 +373,14 @@
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.47300217" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.47300217" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Build" order="4" weight="0.3297414" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32937366" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.5064795" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.52051836" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.41684666" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -603,8 +603,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
