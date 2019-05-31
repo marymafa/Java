@@ -1,7 +1,9 @@
 public class Receipt {
+    static ChargeResult hasSuccessfulCharge = new ChargeResult( true );
+
     public static Receipt forSuccessfulCharge(Receipt amount) {
-       return Receipt.forSuccessfulCharge( amount );
-    }
+    // return Receipt.forSuccessfulCharge( amount );
+return new Receipt();}
 
     public static Receipt forDeclinedCharge(String  message){
         return Receipt.forDeclinedCharge( message );
@@ -16,6 +18,6 @@ public class Receipt {
     }
 
     public int getAmountOfCharge() {
-        return 0;
+        return 100;
     }
 }

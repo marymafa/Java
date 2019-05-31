@@ -3,5 +3,4 @@ public interface TransactionLog {
 
     void logConnectException(Exception e);
 
-    void logConnecException(Exception e);
 }
