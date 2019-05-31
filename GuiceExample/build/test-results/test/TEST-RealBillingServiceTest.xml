@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RealBillingServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-31T10:48:32" hostname="tcgpc1-HP-250-G5-Notebook-PC" time="0.01">
+<testsuite name="RealBillingServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-31T11:03:28" hostname="tcgpc1-HP-250-G5-Notebook-PC" time="0.01">
   <properties/>
   <testcase name="testSuccessfulCharge" classname="RealBillingServiceTest" time="0.01"/>
-  <system-out><![CDATA[InMemoryTransactionLog@1be14f8b
-ChargeResult@1a2bd6c3
+  <system-out><![CDATA[InMemoryTransactionLog@4fd2c78a
+ChargeResult@6efa937f
 null
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
