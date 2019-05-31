@@ -2,25 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="903ac325-21b0-41af-bc88-cea91a8f80dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BillingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChargeResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreditCardProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreditCardProcessorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DatabaseTransactionLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PaypalCreditCardProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PizzaOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RealBillingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SquareCreditCardProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionLogFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RealBillingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FindOddNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindOddNumber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/TransactionLog/CreditCard/FakeCreditCardProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/TransactionLog/CreditCard/FakeCreditCardProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/TransactionLog/CreditCard/RealBillingServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/TransactionLog/CreditCard/RealBillingServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.TransactionLog.CreditCard.RealBillingServiceTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.TransactionLog.CreditCard.RealBillingServiceTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.TransactionLog.CreditCard.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.TransactionLog.CreditCard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.TransactionLog.CreditCard.RealBillingServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.TransactionLog.CreditCard.RealBillingServiceTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/BillingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/ChargeResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/CreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/CreditCardProcessor/CreditCardProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/DatabaseTransactionLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/FakeCreditCardProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/InMemoryTransactionLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/PaypalCreditCardProcessor/PaypalCreditCardProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/RealBillingService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/RealBillingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/Receipt/Receipt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/TransactionLog$UnreachableException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/TransactionLog/CreditCard/TransactionLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/TransactionLog/CreditCard/FakeCreditCardProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/TransactionLog/CreditCard/InMemoryTransactionLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/TransactionLog/CreditCard/RealBillingServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.TransactionLog.CreditCard.RealBillingServiceTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.TransactionLog.CreditCard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.TransactionLog.CreditCard.RealBillingServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/BillingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/CreditCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/CreditCardProcessor/CreditCardProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/DatabaseTransactionLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FakeCreditCardProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/InMemoryTransactionLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InMemoryTransactionLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PaypalCreditCardProcessor/PaypalCreditCardProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/Receipt/Receipt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/TransactionLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/InMemoryTransactionLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -43,14 +95,116 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/RealBillingServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="120">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FakeCreditCardProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#83#84#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CreditCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DatabaseTransactionLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/InMemoryTransactionLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding>
+                <element signature="e#76#77#0" expanded="true" />
+                <element signature="e#94#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PaypalCreditCardProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CreditCardProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CreditCardProcessorFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SquareCreditCardProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/RealBillingService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -61,6 +215,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -73,33 +228,45 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/PizzaOrder/PizzaOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Receipt/Receipt.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BillingService.java" />
         <option value="$PROJECT_DIR$/src/main/java/CreditCard/CreditCard.java" />
         <option value="$PROJECT_DIR$/src/main/java/CreditCardProcessor/PaypalCreditCardProcessor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RealBillingService.java" />
         <option value="$PROJECT_DIR$/src/main/java/PaypalCreditCardProcessor/PaypalCreditCardProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/CreditCardProcessor/CreditCardProcessor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DatabaseTransactionLog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TransactionLog.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/getAmount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/TransactionLog.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/DatabaseTransactionLog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PaypalCreditCardProcessor/PaypalCreditCardProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/CreditCardProcessor/CreditCardProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/InMemoryTransactionLog.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/InMemoryTransactionLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/RealBillingServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/CreditCard.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/Receipt/Receipt.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/RealBillingServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PaypalCreditCardProcessor/PaypalCreditCardProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Receipt/Receipt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BillingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreditCardProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PaypalCreditCardProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RealBillingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TransactionLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ChargeResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreditCard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PizzaOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Receipt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TransactionLogFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InMemoryTransactionLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SquareCreditCardProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreditCardProcessorFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseTransactionLog.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RealBillingServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FakeCreditCardProcessor.java" />
       </list>
     </option>
   </component>
@@ -109,15 +276,15 @@
     <option name="width" value="1380" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Course" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,23 +314,6 @@
               <item name="GuiceExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="GuiceExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="CreditCard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuiceExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuiceExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="CreditCard" type="462c0819:PsiDirectoryNode" />
-              <item name="Receipt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuiceExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuiceExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -172,19 +322,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuiceExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuiceExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="CreditCard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,11 +359,11 @@
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="Receipt" />
       <recent name="com.TransactionLog.CreditCard.PizzaOrder" />
       <recent name="com.TransactionLog.CreditCard" />
       <recent name="PaypalCreditCardProcessor" />
-      <recent name="CreditCardProcessor" />
-      <recent name="CreditCard" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -325,46 +469,48 @@
       <workItem from="1559119274419" duration="705000" />
       <workItem from="1559127423694" duration="4309000" />
       <workItem from="1559201763613" duration="16533000" />
+      <workItem from="1559288463740" duration="6826000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RealBillingServiceTest - 2019.05.30 at 15h 09m 38s.xml">
-      <configuration name="RealBillingServiceTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 15h 11m 11s.xml">
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.31 at 10h 17m 21s.xml">
       <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 15h 41m 03s.xml">
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.31 at 10h 46m 06s.xml">
       <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 15h 41m 09s.xml">
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.31 at 10h 46m 07s.xml">
       <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 16h 12m 39s.xml">
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.31 at 11h 14m 09s.xml">
       <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 16h 14m 11s.xml">
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.31 at 11h 14m 37s.xml">
       <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 16h 14m 57s.xml">
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.31 at 11h 27m 04s.xml">
       <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 16h 16m 32s.xml">
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.31 at 11h 28m 02s.xml">
       <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RealBillingServiceTest_testGetAmountOfCharge - 2019.05.30 at 16h 17m 43s.xml">
-      <configuration name="RealBillingServiceTest.testGetAmountOfCharge" configurationId="GradleRunConfiguration" />
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.31 at 11h 29m 22s.xml">
+      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.30 at 16h 18m 08s.xml">
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.31 at 11h 29m 45s.xml">
+      <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RealBillingServiceTest_testSuccessfulCharge - 2019.05.31 at 11h 30m 53s.xml">
       <configuration name="RealBillingServiceTest.testSuccessfulCharge" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47218000" />
+    <option name="totallyTimeSpent" value="54044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -373,14 +519,14 @@
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.47300217" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.47198275" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Build" order="4" weight="0.3297414" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32937366" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.52051836" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.38336933" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.41684666" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -403,15 +549,15 @@
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.47300217" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.47198275" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Build" order="4" weight="0.3297414" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32937366" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.45032397" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.39956802" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.38336933" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.41684666" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
@@ -428,6 +574,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java</url>
+          <line>24</line>
+          <properties class="com.TransactionLog.CreditCard.RealBillingServiceTest" method="testGetAmountOfCharge">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GuiceExample$RealBillingServiceTest_testSuccessfulCharge.ic" NAME="RealBillingServiceTest.testSuccessfulCharge Coverage Results" MODIFIED="1559216409547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -450,17 +610,6 @@
           <folding>
             <element signature="e#453#454#0" expanded="true" />
             <element signature="e#496#497#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PaypalCreditCardProcessor/PaypalCreditCardProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-          <folding>
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -501,20 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/CreditCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/BillingService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -535,31 +670,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/Receipt/Receipt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/RealBillingServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/RealBillingServiceTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PizzaOrder/PizzaOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -591,10 +702,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/ChargeResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/FakeCreditCardProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/CreditCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/Receipt/Receipt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+          <folding>
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/RealBillingService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="24" column="69" lean-forward="true" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+        <state relative-caret-position="126">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/TransactionLog/CreditCard/PaypalCreditCardProcessor/PaypalCreditCardProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -603,10 +768,181 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/TransactionLog/CreditCard/RealBillingServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Receipt/Receipt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BillingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TransactionLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ChargeResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#56#57#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PizzaOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#56#57#0" expanded="true" />
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Receipt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TransactionLogFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InMemoryTransactionLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PaypalCreditCardProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreditCardProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RealBillingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SquareCreditCardProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreditCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DatabaseTransactionLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreditCardProcessorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RealBillingServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FakeCreditCardProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
           </folding>
         </state>
       </provider>
